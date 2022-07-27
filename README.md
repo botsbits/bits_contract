@@ -23,7 +23,7 @@ npx hardhat run --network rinkeby scripts/01_deploy.js
 
 **Command:**
 ```bash
-npx hardhat run --network rinkeby scripts/01_deploy.js
+npx hardhat run --network rinkeby scripts/02_verify.js
 ```
 
 ### 3. Moving owner
