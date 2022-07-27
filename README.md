@@ -27,4 +27,4 @@ npx hardhat run --network rinkeby scripts/01_deploy.js
 ```
 
 ### 3. Moving owner
-After deployment you need to set owner of a contract to ``
+After deployment you need to set owner of a contract to `0xa9e49e987cd2cD4081d89a23f0d88c53618d001C`
